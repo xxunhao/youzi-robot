@@ -1,0 +1,3 @@
+recursive-include youzi_robot/assets *
+include LICENSE
+include README.md
